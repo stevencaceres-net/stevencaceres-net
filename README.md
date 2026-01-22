@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hola, soy Steven Cáceres 👋
 
-<!--
-**stevencaceres-net/stevencaceres-net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Egresado del Técnico en Ingeniería de Infraestructura de Redes Informáticas  
+📍 El Salvador  
+💻 Enfocado en redes empresariales y seguridad básica  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y habilidades
+- Redes LAN y WAN
+- VLANs y Trunking
+- Routing (Estático, OSPF)
+- ACL estándar y extendidas
+- DHCP
+- Cisco Packet Tracer
