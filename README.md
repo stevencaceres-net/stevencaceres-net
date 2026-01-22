@@ -1,4 +1,4 @@
-<center> # Hola, soy Steven Cáceres 👋<center/>
+<h1 align="center">Hola, soy Steven Cáceres 👋</h1>
 
 🎓 Egresado del Técnico en Ingeniería de Infraestructura de Redes Informáticas  
 📍 El Salvador  
