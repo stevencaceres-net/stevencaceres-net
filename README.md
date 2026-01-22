@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ Tecnologías y habilidades
+# 🛠️ Tecnologías y habilidades
 - Redes LAN y WAN
 - VLANs y Trunking
 - Routing (Estático, OSPF)
