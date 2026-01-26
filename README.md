@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Steven Cáceres 👋</h1>
 
 <p align="center">
-  <img src="bannerprincipal.png" alt="Banner de Steven Cáceres" />
+  <img src="bannerprincipal.jpg" />
 </p>
 
 🎓 Egresado del Técnico en Ingeniería de Infraestructura de Redes Informáticas  
